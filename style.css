@@ -354,7 +354,7 @@ fieldset {
   font-size: 32px;
   font-weight: 600;
   color: var(--clr-gunmetal);
-  padding-block: 2.16px;
+  padding-block: 34px;
   letter-spacing: -2px;
 }
 
@@ -402,7 +402,7 @@ fieldset {
   font-size: 32px;
   font-weight: 600;
   color: var(--clr-gunmetal);
-  padding-bottom: 2.16px;
+  padding-bottom: 34px;
   letter-spacing: -2px;
   text-align: center;
 }
@@ -597,16 +597,6 @@ fieldset {
   .protocols--container,
   .limitations--container {
     padding-inline: 96px;
-  }
-  .bmi-results-section--container {
-    padding-block: 130px;
-    display: flex;
-  }
-
-  .img--bmi-result {
-    position: relative;
-    right: 65px;
-    width: 60%;
   }
 }
 
